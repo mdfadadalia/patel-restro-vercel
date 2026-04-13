@@ -44,7 +44,7 @@ export default function Sidebar() {
                         >
                             <i className="fas fa-credit-card me-3" /> Checkout
                         </Link>
-                        <Link to={"feedback"}
+                        <Link to={"/feedback"}
                             className="list-group-item list-group-item-action border-0"
                         >
                             <i className="fas fa-comment-alt me-3" /> Feedback
